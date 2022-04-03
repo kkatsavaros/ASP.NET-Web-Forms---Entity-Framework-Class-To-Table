@@ -2,7 +2,7 @@ ASP.NET Web Forms - Entity Framework Class To Table
 
 
 
-In that project i use Entity Framework to create two database table from two classes using Entity Framework.
+In that project i use Entity Framework to create two database tables from two classes using Entity Framework.
 
 Entity Framework is an ORM (Object Relational Mapping).
 
@@ -26,6 +26,3 @@ Entity Framework is an ORM (Object Relational Mapping).
 
 
 Katsavaros Konstantinos
-
-
-
